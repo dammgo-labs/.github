@@ -18,6 +18,7 @@
 
 | NODE_ID | DESIGNATION | DESCRIPTION | STATUS |
 | :--- | :--- | :--- | :--- |
+| **[SYS-001](https://github.com/dammgo-labs/harvester)** | Harvester | Stateless, deterministic OSINT pre-processor. Uses strict regex rules to isolate signal and prevent LLM token waste. | `ONLINE` |
 | **[PRG-001](https://github.com/dammgo-labs/coherence-infrastructure)** | Coherence Infrastructure | Empirical framework measuring physiological coherence (HRV) in response to structured attentional focus. | `GATHERING` |
 | **[SYS-WEB](https://github.com/dammgo-labs/website)** | Public Interface | The Zero-JS, statically compiled landing node for dammgo labs. | `ONLINE` |
 

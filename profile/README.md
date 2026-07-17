@@ -1,9 +1,9 @@
 # dammgo labs
 
-**Deep Tech and Applied Science. Engineering the sovereign infrastructure of the future.**
+**Applied software research and infrastructure development.**
 
 > [!ABSTRACT]
-> We do not build software; we architect the underlying primitives. From deterministic cognitive architectures to empirical biological telemetry, we engineer systems resilient to entropy. The trace is our law.
+> We do not build applications; we architect the underlying primitives. Our research spans deterministic data pipelines, empirical biological telemetry, and local-first distributed systems. Strict data structures over heuristics.
 
 ---
 

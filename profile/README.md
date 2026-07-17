@@ -19,7 +19,6 @@
 | **[SYS-001](https://github.com/dammgo-labs/harvester)** | Harvester | Stateless, deterministic OSINT pre-processor. Uses strict regex rules to isolate signal and prevent LLM token waste. | `ACTIVE` |
 | **[PRG-001](https://github.com/dammgo-labs/coherence-infrastructure)** | Coherence Infrastructure | Empirical framework measuring physiological coherence (HRV) in response to structured attentional focus. | `GATHERING` |
 
-
 ### 03. Licensing & Legal
 
 To protect our research from uncredited commercial exploitation while fostering open academic collaboration, our protocols and source code are distributed under the **Elastic License 2.0 (ELv2)**. Please refer to individual repository `LICENSE` files for specific terms.

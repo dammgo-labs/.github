@@ -16,10 +16,9 @@
 
 | NODE_ID | DESIGNATION | DESCRIPTION | STATUS |
 | :--- | :--- | :--- | :--- |
-| **[PROTO-001](https://github.com/dammgo-labs/vena-protocol)** | VENA Protocol | Zero-Trust infrastructure designed to neutralize Cognitive Entropy Decay (CED). **AOOP Standard Reference Implementation**. | `ACTIVE` |
 | **[SYS-001](https://github.com/dammgo-labs/harvester)** | Harvester | Stateless, deterministic OSINT pre-processor. Uses strict regex rules to isolate signal and prevent LLM token waste. | `ACTIVE` |
 | **[PRG-001](https://github.com/dammgo-labs/coherence-infrastructure)** | Coherence Infrastructure | Empirical framework measuring physiological coherence (HRV) in response to structured attentional focus. | `GATHERING` |
-| **[SYS-WEB](https://github.com/dammgo-labs/website)** | Public Interface | The Zero-JS, statically compiled landing node for dammgo labs. | `ONLINE` |
+
 
 ### 03. Licensing & Legal
 
